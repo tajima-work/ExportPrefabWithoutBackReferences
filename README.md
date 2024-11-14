@@ -1,1 +1,1 @@
-# ExportPrefabWithoutBackReferences
+# 逆参照なしでPrefabをExportするカスタムエディタ
